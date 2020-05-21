@@ -1,5 +1,5 @@
 # Python_Fundamentals
-A series of different Jupyter notebooks relating various relevant topics with their Fundamentals tools variables and alike.
+A series of different Jupyter Notebooks relating various relevant topics with their Fundamentals tools variables and alike.
 
 Added so far:<br>
 - Markdown Cells Fundamentals in Jupyter Notebooks
